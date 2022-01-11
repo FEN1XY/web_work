@@ -11,6 +11,7 @@ import 'package:flutter/material.dart';
   https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
   https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
   https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+  https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 */
 
 //! This is entry point to application
