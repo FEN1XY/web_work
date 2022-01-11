@@ -1,7 +1,11 @@
-# Web lesson - 1
+# Web lesson - 2
 
-To create project u can use the following command in the PowerShell:
-
- - flutter create <project_name>
-
-Working with project files in the "lib" root folder
+Studying the following widgets:
+- Text
+- Center
+- Align
+- ColoredBox
+- Container
+- Padding
+- Column
+- Row
