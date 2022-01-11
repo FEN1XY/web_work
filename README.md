@@ -1,6 +1,6 @@
 # Web lesson - 1
 
-To create project at some place u can use the following command in the PowerShell:
+To create project at some place u can use the following command in PowerShell:
 
  - flutter create <project_name>
 
